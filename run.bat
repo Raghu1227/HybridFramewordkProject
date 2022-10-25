@@ -1,0 +1,2 @@
+cd C:\PavanKumar_Selenium_Workspace\HybridFramewordkProject
+mvn clean install

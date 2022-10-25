@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 80.22 s <<< FAILURE! - in TestSuite
+loginTest(com.citi.HybridFramewordkProject.testCases.TC_LoginDDT_002)  Time elapsed: 6.785 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.citi.HybridFramewordkProject.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:43)
+
+loginTest(com.citi.HybridFramewordkProject.testCases.TC_LoginDDT_002)  Time elapsed: 6.652 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.citi.HybridFramewordkProject.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:43)
+
+loginTest(com.citi.HybridFramewordkProject.testCases.TC_LoginDDT_002)  Time elapsed: 6.567 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.citi.HybridFramewordkProject.testCases.TC_LoginDDT_002.loginTest(TC_LoginDDT_002.java:43)
+

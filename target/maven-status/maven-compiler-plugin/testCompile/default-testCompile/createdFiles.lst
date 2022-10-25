@@ -1,0 +1,9 @@
+com\citi\HybridFramewordkProject\utilities\ReadConfig.class
+com\citi\HybridFramewordkProject\testCases\BaseClass.class
+com\citi\HybridFramewordkProject\testCases\TC_AddCustomerTest_003.class
+com\citi\HybridFramewordkProject\pageObjects\LoginPage.class
+com\citi\HybridFramewordkProject\testCases\TC_LoginTest_001.class
+com\citi\HybridFramewordkProject\utilities\XLUtils.class
+com\citi\HybridFramewordkProject\testCases\TC_LoginDDT_002.class
+com\citi\HybridFramewordkProject\pageObjects\AddcustomerPage.class
+com\citi\HybridFramewordkProject\utilities\Reporting.class
